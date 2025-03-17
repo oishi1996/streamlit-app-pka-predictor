@@ -5,4 +5,4 @@ data
 train_model.py
 **/__pycache__
 *.log
-model.pkl
+# model.pkl
