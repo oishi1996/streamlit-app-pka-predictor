@@ -1,0 +1,8 @@
+# .gitignore に追加
+.DS_Store
+.venv
+data
+train_model.py
+**/__pycache__
+*.log
+model.pkl
